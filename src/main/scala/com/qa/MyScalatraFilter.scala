@@ -11,6 +11,7 @@ class MyScalatraFilter extends ScalatraFilter with ScalateSupport {
       <body>
         <h1>Hello, world!</h1>
         Saying hello to Scalatra from Maven and Jenkins with the new stuff !
+Yes show up !!
       </body>
     </html>
   }
